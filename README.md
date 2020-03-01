@@ -1,2 +1,4 @@
-# learning-Javascript
-Javascript 学习之路 - Javascript 学习资料
+# Javascript 学习之路
+
+![](https://img.shields.io/apm/l/vim-mode)
+
